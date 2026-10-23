@@ -1,0 +1,12 @@
+# List of resources that I have come across and read.
+
+# Describes how the CPU is utilized to get fast matrix multiplication operations
+https://siboehm.com/articles/22/Fast-MMM-on-CPU
+
+
+# Measuring the Data Efficiency of Deep Learning Methods [2019]
+https://arxiv.org/pdf/1907.02549
+
+# Anatomy of High-Performance Many-Threaded Matrix Multiplication
+http://www.cs.utexas.edu/users/flame/pubs/blis3_ipdps14.pdf
+https://cs.stanford.edu/people/shadjis/blas.html
